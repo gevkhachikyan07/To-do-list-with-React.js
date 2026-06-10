@@ -12,6 +12,7 @@ It also has night/day mode.
 - Edit tasks
 - Delete all tasks with one but
 - Mark tasks as done
+- LocalStorage persistence (tasks saved after refresh)
 - Simple UI
 
 ---
