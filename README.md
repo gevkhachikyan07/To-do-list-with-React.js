@@ -1,7 +1,8 @@
 # To-do List (React)
 
-This is a simple To-do List application built with React (Redux).  
-It also has night/day mode.
+This is a simple To-do List application built with React (Redux).
+It works with localStorage and also has night/day mode.
+
 
 ---
 
