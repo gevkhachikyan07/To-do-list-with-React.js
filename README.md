@@ -25,7 +25,7 @@ It works with localStorage and also has night/day mode.
 - HTML/CSS
 
 ---
-##Screenshots
+## Screenshots
 
 [lightmode](https://github.com/user-attachments/assets/6c30b03b-daa6-4ba7-b006-8b08cd722842)
 [darkmode](https://github.com/user-attachments/assets/5043d39b-1059-4031-a3b2-68a6db4e75ac) 
